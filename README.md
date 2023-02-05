@@ -1,2 +1,2 @@
 # my-vuex
-vuex远离模拟实现
+vuex原理模拟实现
